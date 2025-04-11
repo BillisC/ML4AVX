@@ -1,0 +1,11 @@
+---
+BasedOnStyle: LLVM
+SortIncludes: 'false'
+IndentWidth: '4'
+AlignConsecutiveMacros: true
+AlignConsecutiveBitFields: true
+AllowShortEnumsOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: true
+IndentCaseLabels: true
